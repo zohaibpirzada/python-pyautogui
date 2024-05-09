@@ -1,3 +1,3 @@
 # python-pyautogui
 
-this is zohaib pirzada
+this is zohaib prizada
